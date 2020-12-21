@@ -1,8 +1,14 @@
 body {
 background: white url("images/cat.jpg") no-repeat;
 background-position: right top;
+    background-size:50%;
 }
 
 li a {
-color: red;
+color: cornflowerblue;
+}
+
+#list1{
+    margin-left:80px;
+    padding-left:80px;
 }
